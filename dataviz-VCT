@@ -1,0 +1,8 @@
+titre:
+# VCT 2024 : Panorama statistique de l'élite mondiale de Valorant
+
+Arthur Rambour
+
+## Description du projet
+Tableau de bord interactif réalisé sur Power BI analysant les performances individuelles avec comme graphique principal un
+graphique en courbe qui represente le nombre de kille par round et il y a la répartition des éliminations par région lors du Valorant Champions Tour 2024.
